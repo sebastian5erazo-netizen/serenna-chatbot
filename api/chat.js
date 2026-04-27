@@ -6,7 +6,7 @@
 //       DEEPSEEK_API_KEY = tu key de DeepSeek
 // ================================================================
 
-const ALLOWED_ORIGIN = 'https://serenna.lat'; // ← tu dominio Shopify
+const ALLOWED_ORIGIN = '*'; // ← tu dominio Shopify
 
 const SYSTEM_PROMPT = `
 Eres el Asistente de SERENNA, la voz oficial de la marca en la web. Representas a una empresa especializada en salud capilar femenina para mujeres en etapa de perimenopausia y menopausia.
